@@ -11,6 +11,7 @@ As packager manager I use [Packer](https://github.com/wbthomason/packer.nvim)
 - [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [Undotree](https://github.com/mbbill/undotree)
 - [LSP-Zero](https://github.com/VonHeikemen/lsp-zero.nvim)
+- [Autopairs](https://github.com/windwp/nvim-autopairs)
 
 
 ## Theme

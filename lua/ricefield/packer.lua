@@ -26,7 +26,8 @@ return require('packer').startup(function(use)
 
   -- Treesitter
   use {
-	'nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'}
+	  'nvim-treesitter/nvim-treesitter',
+    {run = ':TSUpdate'}
   }
 
   -- Undotree
@@ -52,4 +53,8 @@ return require('packer').startup(function(use)
 	  }
   }
 
+  -- Autopairs
+  use {
+    'windwp/nvim-autopairs'
+  }
 end)
