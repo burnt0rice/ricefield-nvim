@@ -12,6 +12,7 @@ As packager manager I use [Packer](https://github.com/wbthomason/packer.nvim)
 - [Undotree](https://github.com/mbbill/undotree)
 - [LSP-Zero](https://github.com/VonHeikemen/lsp-zero.nvim)
 - [Autopairs](https://github.com/windwp/nvim-autopairs)
+- [Blamer](https://github.com/APZelos/blamer.nvim)
 
 
 ## Theme
