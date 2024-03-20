@@ -63,4 +63,8 @@ return require('packer').startup(function(use)
     'APZelos/blamer.nvim'
   }
 
+  -- GitHub Copilot
+  use {
+    'github/copilot.vim'
+  }
 end)
