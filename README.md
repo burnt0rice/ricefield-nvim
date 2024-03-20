@@ -31,3 +31,4 @@ You can find all LSP for lspconfig on [GitHub](https://github.com/neovim/nvim-ls
 - eslint
 - jsonls
 - marksman
+- tailwindcss
