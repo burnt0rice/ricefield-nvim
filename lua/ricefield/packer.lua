@@ -57,4 +57,10 @@ return require('packer').startup(function(use)
   use {
     'windwp/nvim-autopairs'
   }
+
+  -- Blamer
+  use {
+    'APZelos/blamer.nvim'
+  }
+
 end)
