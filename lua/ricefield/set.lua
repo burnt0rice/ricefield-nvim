@@ -1,3 +1,10 @@
+require('catppuccin').setup({
+  transparent_background = true
+})
+
+vim.cmd('colorscheme catppuccin')
+-- vim.cmd('colorscheme poimandres')
+
 vim.opt.nu = true
 vim.opt.relativenumber = true
 

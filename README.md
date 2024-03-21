@@ -17,8 +17,9 @@ As packager manager I use [Packer](https://github.com/wbthomason/packer.nvim)
 
 
 ## Theme
-The theme is [Poimandres.nvim](https://github.com/olivercederborg/poimandres.nvim)
-
+Following themes are included:
+- [Poimandres.nvim](https://github.com/olivercederborg/poimandres.nvim)
+- [Catppuccin](https://github.com/catppuccin/nvim) (this is currently active)
 
 ## LSP used
 You can find all LSP for lspconfig on [GitHub](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md) or by running the nvim command ``:help lspconfig-all``

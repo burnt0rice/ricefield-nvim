@@ -20,8 +20,13 @@ return require('packer').startup(function(use)
 		  require('poimandres').setup {
 			  disable_background = true
 		  }
-		  vim.cmd('colorscheme poimandres')
 	  end
+  }
+
+  -- Catppuccino ColorSchema
+  use {
+    'catppuccin/nvim',
+    as = 'catppuccin',
   }
 
   -- Treesitter
