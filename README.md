@@ -11,6 +11,7 @@ As packager manager I use [Packer](https://github.com/wbthomason/packer.nvim)
 - [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [Undotree](https://github.com/mbbill/undotree)
 - [LSP-Zero](https://github.com/VonHeikemen/lsp-zero.nvim)
+- [None-LS](https://github.com/nvimtools/none-ls.nvim/tree/main)
 - [Autopairs](https://github.com/windwp/nvim-autopairs)
 - [Blamer](https://github.com/APZelos/blamer.nvim)
 - [Copilot](https://github.com/features/copilot)
@@ -35,6 +36,7 @@ You can find all LSP for lspconfig on [GitHub](https://github.com/neovim/nvim-ls
 - jsonls
 - marksman
 - tailwindcss
+- none-ls for formatting
 
 
 ## Custom keymaps

@@ -58,6 +58,14 @@ return require('packer').startup(function(use)
 	  }
   }
 
+  -- LSP none-ls
+  use {
+    'nvimtools/none-ls.nvim',
+    requires = {
+      {"nvim-lua/plenary.nvim"},
+    }
+  }
+
   -- Autopairs
   use {
     'windwp/nvim-autopairs'
