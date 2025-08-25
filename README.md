@@ -29,7 +29,7 @@ Following themes are included:
 
 ## LSP used
 
-You can find all LSP for lspconfig on [GitHub](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md) or by running the nvim command `:help lspconfig-all`
+You can find all LSP for lspconfig on [GitHub](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md) or by running the nvim command `:help lspconfig-all`
 
 - gopls
 - lua_ls
